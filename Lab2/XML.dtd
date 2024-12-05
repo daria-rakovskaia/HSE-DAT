@@ -1,0 +1,13 @@
+<!ELEMENT movies (movie*)>
+<!ELEMENT movie (title, genre, director, composer, actors, date, money, ageRestriction, audienceCount, language)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT genre (#PCDATA)>
+<!ELEMENT director (#PCDATA)>
+<!ELEMENT composer (#PCDATA)>
+<!ELEMENT actors (actor+)>
+<!ELEMENT actor (#PCDATA)>
+<!ELEMENT date (#PCDATA)>
+<!ELEMENT money (#PCDATA)>
+<!ELEMENT ageRestriction (#PCDATA)>
+<!ELEMENT audienceCount (#PCDATA)>
+<!ELEMENT language (#PCDATA)>

@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<movies>
+    <movie>
+        <title>Брат</title>
+        <genre>Боевик</genre>
+        <director>Алексей Балабанов</director>
+        <composer>Вячеслав Бутусов</composer>
+        <actors>
+            <actor>Сергей Бодров — младший</actor>
+            <actor>Виктор Сухоруков</actor>
+            <actor>Дарья Юргенс</actor>
+            <actor>Алексей Балабанов</actor>
+        </actors>
+        <date>1997-12-12</date>
+        <money>1530937</money>
+        <ageRestriction>18+</ageRestriction>
+        <audienceCount>10000000</audienceCount>
+        <language>Русский</language>
+    </movie>
+    <movie>
+        <title>Ёлки</title>
+        <genre>Комедия</genre>
+        <director>Тимур Бекмамбетов</director>
+        <composer>Павел Есенин</composer>
+        <actors>
+            <actor>Иван Ургант</actor>
+            <actor>Сергей Светлаков</actor>
+            <actor>Вера Брежнева</actor>
+            <actor>Константин Хабенский</actor>
+            <actor>Александр Головин</actor>
+            <actor>Мария Порошина</actor>
+        </actors>
+        <date>2010-12-16</date>
+        <money>22300000</money>
+        <ageRestriction>6+</ageRestriction>
+        <audienceCount>15000000</audienceCount>
+        <language>Русский</language>
+    </movie>
+    <movie>
+        <title>А зори здесь тихие</title>
+        <genre>Военный</genre>
+        <director>Ренат Давлетьяров</director>
+        <composer>Юрий Потеенко</composer>
+        <actors>
+            <actor>Пётр Фёдоров</actor>
+            <actor>Анастасия Микульчина</actor>
+            <actor>Софья Лебедева</actor>
+        </actors>
+        <date>2015-04-30</date>
+        <money>8500000</money>
+        <ageRestriction>12+</ageRestriction>
+        <audienceCount>2000000</audienceCount>
+        <language>Русский</language>
+    </movie>
+    <movie>
+        <title>Левиафан</title>
+        <genre>Драма</genre>
+        <director>Андрей Звягинцев</director>
+        <composer>Филипп Гласс</composer>
+        <actors>
+            <actor>Алексей Серебряков</actor>
+            <actor>Елена Лядова</actor>
+            <actor>Владимир Вдовиченков</actor>
+            <actor>Роман Мадянов</actor>
+            <actor>Анна Уколова</actor>
+        </actors>
+        <date>2015-04-30</date>
+        <money>8500000</money>
+        <ageRestriction>12+</ageRestriction>
+        <audienceCount>2000000</audienceCount>
+        <language>Русский</language>
+    </movie>
+    <movie>
+        <title>Иван Васильевич меняет профессию</title>
+        <genre>Комедия</genre>
+        <director>Леонид Гайдай</director>
+        <composer>Александр Зацепин</composer>
+        <actors>
+            <actor>Юрий Яковлев</actor>
+            <actor>Леонид Куравлёв</actor>
+            <actor>Александра Яковлева</actor>
+            <actor>Владимир Этуш</actor>
+            <actor>Сергей Филиппов</actor>
+            <actor>Любовь Мышева</actor>
+            <actor>Иван Жеваго</actor>
+        </actors>
+        <date>1973-09-17</date>
+        <money>16000000</money>
+        <ageRestriction>0+</ageRestriction>
+        <audienceCount>60000000</audienceCount>
+        <language>Русский</language>
+    </movie>
+</movies>
