@@ -1,0 +1,79 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "movies": {
+      "type": "object",
+      "properties": {
+        "movie": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "title": {
+                "type": "string"
+              },
+              "genre": {
+                "type": "string"
+              },
+              "director": {
+                "type": "string"
+              },
+              "composer": {
+                "type": "string"
+              },
+              "actors": {
+                "type": "object",
+                "properties": {
+                  "actor": {
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    }
+                  }
+                },
+                "required": [
+                  "actor"
+                ]
+              },
+              "date": {
+                "type": "string",
+                "format": "date"
+              },
+              "money": {
+                "type": "string"
+              },
+              "ageRestriction": {
+                "type": "string"
+              },
+              "audienceCount": {
+                "type": "string"
+              },
+              "language": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "title",
+              "genre",
+              "director",
+              "composer",
+              "actors",
+              "date",
+              "money",
+              "ageRestriction",
+              "audienceCount",
+              "language"
+            ]
+          }
+        }
+      },
+      "required": [
+        "movie"
+      ]
+    }
+  },
+  "required": [
+    "movies"
+  ]
+}
